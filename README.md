@@ -1,1 +1,10 @@
-# Kiratvision-site
+HTML
+<form name="contact" method="POST" data-netlify="true">
+  <input type="hidden" name="form-name" value="contact" />
+
+  <input type="text" name="name" placeholder="Your Name" />
+  <input type="email" name="email" placeholder="Your Email" />
+  <textarea name="message"></textarea>
+
+  <button type="submit">Send</button>
+</form># Kiratvision-site
